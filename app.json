@@ -1,7 +1,7 @@
 {
     "name": "🌹⃝𖣔𝐕𝐈𝐏 𝐌𝐔𝐒𝐈𝐂🥀⛦⃕‌🇮🇳",
     "description": "A Telegram Music Player Bot, written in Python with Pyrogram and Py-Tgcalls.",
-    "logo": "https://te.legra.ph/file/3a131483d8a27dbf41b3a.jpg",
+    "logo": "https://te.legra.ph/file/471ef129b9c1b479676fd.jpg",
     "keywords": [
     "python3",
     "telegram",
@@ -14,17 +14,17 @@
     "env": {
       "API_ID": {
         "description": "𝐆𝐄𝐓 𝐀𝐏𝐈 𝐈𝐃 𝐅𝐑𝐎𝐌 https://my.telegram.org",
-        "value": "14050586",
+        "value": "21011056",
         "required": true
       },
       "API_HASH": {
         "description": "𝐆𝐄𝐓 𝐀𝐏𝐈 𝐇𝐀𝐒𝐇 𝐅𝐑𝐎𝐌 https://my.telegram.org",
-        "value": "42a60d9c657b106370c79bb0a8ac560c",
+        "value": "696033b1a9c35f0dc027f8ecfbaa9645",
         "required": true
       },
       "BOT_TOKEN": {
         "description": "𝐆𝐄𝐓 𝐁𝐎𝐓 𝐓𝐎𝐊𝐄𝐍 𝐅𝐑𝐎𝐌 𝐁𝐎𝐓 𝐅𝐀𝐓𝐇𝐄𝐑",
-        "value": "",
+        "value": "6988058891:AAGvKZoz528o-Fdl-OOEDd68QaETNAUWv7c",
         "required": true
       },
       "MONGO_DB_URI": {
@@ -54,7 +54,7 @@
       },
       "START_IMG_URL": {
         "description": "𝐅𝐈𝐋𝐋 𝐇𝐄𝐑𝐄 𝐘𝐎𝐔𝐑 𝐒𝐓𝐀𝐑𝐓 𝐁𝐎𝐓 𝐈𝐌𝐀𝐆𝐄 𝐔𝐑𝐋, 𝐆𝐄𝐓 𝐈𝐓 𝐅𝐑𝐎𝐌 ;- t.me/vTelegraphBot",
-        "value": "https://te.legra.ph/file/ecdeac045f4045c198bd6.jpg",
+        "value": "https://te.legra.ph/file/cf7e7a00a1519d1b9c1a4.jpg",
         "required": false
       },
       "LOGGER_ID": {
