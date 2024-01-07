@@ -35,7 +35,7 @@
   <img src="https://te.legra.ph/file/cf7e7a00a1519d1b9c1a4.jpg">
 </p>
 
-**𝙏𝙀𝙎𝙏 𝘽𝙊𝙏 ➣ [𝄟ॐ❥𝗧𝗚🍷𝗩𝗖🌷𝗕𝗢𝗧❥𝄟⃟🥀](https://t.me/TG_VC_BOT)**
+**𝙏𝙀𝙎𝙏 𝘽𝙊𝙏 ➣ [𝗔𝗡𝗝𝗔𝗟𝗜 𝗠𝗨𝗦𝗜𝗖](https://t.me/anjalimusic2bot)**
 
 
 
