@@ -20,7 +20,7 @@ from config import SUPPORT_CHAT, adminlist, confirmer
 from strings import get_string
 
 from ..formatters import int_to_alpha
-TEST_ID = int("-1002146005311")
+TEST_ID = int("-1001970031336")
 
 def AdminRightsCheck(mystic):
     async def wrapper(client, message):
