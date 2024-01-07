@@ -23,12 +23,12 @@ async def join_watcher(_, message):
             count = await app.get_chat_members_count(chat.id)
             username = message.chat.username if message.chat.username else "𝐏ʀɪᴠᴀᴛᴇ 𝐆ʀᴏᴜᴘ"
             msg = (
-                f"**📝𝐌ᴜsɪᴄ 𝐁ᴏᴛ 𝐀ᴅᴅᴇᴅ 𝐈ɴ 𝐀 #𝐍ᴇᴡ_𝐆ʀᴏᴜᴘ**\n\n"
-                f"**📌𝐂ʜᴀᴛ 𝐍ᴀᴍᴇ:** {message.chat.title}\n"
-                f"**🍂𝐂ʜᴀᴛ 𝐈ᴅ:** {message.chat.id}\n"
-                f"**🔐𝐂ʜᴀᴛ 𝐔sᴇʀɴᴀᴍᴇ:** @{username}\n"
-                f"**📈𝐆ʀᴏᴜᴘ 𝐌ᴇᴍʙᴇʀs:** {count}\n"
-                f"**🤔𝐀ᴅᴅᴇᴅ 𝐁ʏ:** {message.from_user.mention}"
+                f"**📝ᴍᴜsɪᴄ ʙᴏᴛ ᴀᴅᴅᴇᴅ ɪɴ ᴀ #ɴᴇᴡ_ɢʀᴏᴜᴘ**\n\n"
+                f"**📌ᴄʜᴀᴛ ɴᴀᴍᴇ:** {message.chat.title}\n"
+                f"**🍂ᴄʜᴀᴛ ɪᴅ:** {message.chat.id}\n"
+                f"**🔐ᴄʜᴀᴛ ᴜsᴇʀɴᴀᴍᴇ:** @{username}\n"
+                f"**📈ɢʀᴏᴜᴘ ᴍᴇᴍʙᴇʀs:** {count}\n"
+                f"**🤔ᴀᴅᴅᴇᴅ ʙʏ:** {message.from_user.mention}"
             )
             await app.send_photo(LOG_GROUP_ID, photo=random.choice(photo), caption=msg, reply_markup=InlineKeyboardMarkup([
             [InlineKeyboardButton(f"😍ᴀᴅᴅ ᴍᴇ ɪɴ ᴍᴏʀᴇ😍", url=f"https://t.me/{app.username}?startgroup=true")]
@@ -57,15 +57,15 @@ async def _greet(_, message):
             count = await app.get_chat_members_count(chat.id)
 
             msg = (
-                f"**🌷𝐇ᴇʏ {message.from_user.mention} 𝐖ᴇʟᴄᴏᴍᴇ 𝐈ɴ 𝐀 𝐍ᴇᴡ 𝐆ʀᴏᴜᴘ🥳**\n\n"
-                f"**📝𝐂ʜᴀᴛ 𝐍ᴀᴍᴇ:** {message.chat.title}\n➖➖➖➖➖➖➖➖➖➖➖\n"
-                f"**🔐𝐂ʜᴀᴛ 𝐔.𝐍:** @{message.chat.username}\n➖➖➖➖➖➖➖➖➖➖➖\n"
-                f"**💖𝐔ʀ 𝐈d:** {message.from_user.id}\n➖➖➖➖➖➖➖➖➖➖➖\n"
-                f"**✍️𝐔ʀ 𝐔.𝐍:** @{message.from_user.username}\n➖➖➖➖➖➖➖➖➖➖➖\n"
-                f"**👥𝐂ᴏᴍᴘʟᴇᴛᴇᴅ {count} 𝐌ᴇᴍʙᴇʀ𝐬🎉**"
+                f"**🌷ʜᴇʏ {message.from_user.mention} ᴡᴇʟᴄᴏᴍᴇ ɪɴ ᴀ ɴᴇᴡ ɢʀᴏᴜᴘ🥳**\n\n"
+                f"**📝ᴄʜᴀᴛ ɴᴀᴍᴇ:** {message.chat.title}\n➖➖➖➖➖➖➖➖➖➖➖\n"
+                f"**🔐ᴄʜᴀᴛ ᴜ.ɴ:** @{message.chat.username}\n➖➖➖➖➖➖➖➖➖➖➖\n"
+                f"**💖ᴜʀ ɪᴅ:** {message.from_user.id}\n➖➖➖➖➖➖➖➖➖➖➖\n"
+                f"**✍️ᴜʀ ᴜ.ɴ:** @{message.from_user.username}\n➖➖➖➖➖➖➖➖➖➖➖\n"
+                f"**👥𝐂ᴏᴍᴘʟᴇᴛᴇᴅ {count} ᴍᴇᴍʙᴇʀ𝐬🎉**"
             )
             await app.send_photo(message.chat.id, photo=random.choice(photo), caption=msg, reply_markup=InlineKeyboardMarkup([
-            [InlineKeyboardButton(f"𝐊ɪᴅɴᴀᴘ 𝐌ᴇ", url=f"https://t.me/{app.username}?startgroup=true")]
+            [InlineKeyboardButton(f"ᴍᴀʜᴛᴏ ᴀɴᴊᴀʟɪɪ", url=f"https://t.me/{app.username}?startgroup=true")]
          ]))
 
 #tagall
