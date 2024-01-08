@@ -65,7 +65,7 @@ async def _greet(_, message):
                 f"**👥𝐂ᴏᴍᴘʟᴇᴛᴇᴅ {count} ᴍᴇᴍʙᴇʀ𝐬🎉**"
             )
             await app.send_photo(message.chat.id, photo=random.choice(photo), caption=msg, reply_markup=InlineKeyboardMarkup([
-            [InlineKeyboardButton(f"ᴍᴀʜᴛᴏ ᴀɴᴊᴀʟɪɪ", url=f"https://t.me/{app.username}?startgroup=true")]
+            [InlineKeyboardButton(f"ᴍᴀʜᴛᴏ ᴀɴᴊᴀʟɪ ᴋᴏ ᴀᴅᴅ ᴋʀᴏ ᴀᴘɴᴇ ɢʀᴏᴜᴘ ᴍᴇ", url=f"https://t.me/{app.username}?startgroup=true")]
          ]))
 
 #tagall
