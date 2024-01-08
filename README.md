@@ -8,7 +8,7 @@
 
 <p align="center">
     <b>ᴠɪsɪᴛᴏʀs</b><br>
- -->    <img align="middle" src="https://profile-counter.glitch.me/THE-VIP-BOY-OP/count.svg" />
+ -->    <img align="middle" src="https://profile-counter.glitch.me/mahtoanjali/count.svg" />
 </p>
 
 
@@ -28,7 +28,7 @@
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mahtoanjali&repo=ANJALI-VIP-MUSIC&theme=flag-india)
 
 [![GIF](https://github.com/mahtoanjali/ANJALI-VIP-MUSIC/blob/main/mahtoanjali.gif)](https://github.com/mahtoanjali)
-   [![VIP BOY](https://github-stats-alpha.vercel.app/api?username=mahtoanjali "mahtoanjali")](https://github-stats-alpha.vercel.app/api?username=THE-VIP-BOY-OP "THE_VIP_BOY")
+   [![VIP BOY](https://github-stats-alpha.vercel.app/api?username=mahtoanjali "mahtoanjali")](https://github-stats-alpha.vercel.app/api?username=mahtoanjali "mahtoanjali")
 
 
 <p align="center">
